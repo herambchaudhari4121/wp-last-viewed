@@ -8,3 +8,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
 [unreleased]: https://github.com/achttienvijftien/wp-republish
+
+# deps.cloud Hacktoberfest tooling
+
+This repository contains tooling to help support organizations participating in [Hacktoberfest].
+
+[Hacktoberfest]: https://hacktoberfest.digitalocean.com/
